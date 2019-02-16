@@ -12,7 +12,7 @@ If you use this code, please kindly cite our paper:
   publisher={IEEE}
 }
 
-This code is tested on matconvnet-1.0-beta25, which can refer to this link "http://www.vlfeat.org/matconvnet/install/" to correctly install this deep learning framework. Here, we assume the installation location of matconvent is "Demo_SPDF-SVM/matconvnet".
+This code is tested on matconvnet-1.0-beta25, which can refer to this link (http://www.vlfeat.org/matconvnet/install/) to correctly install this deep learning framework. Here, we assume the installation location of matconvent is "Demo_SPDF-SVM/matconvnet".
 
 1. Download the pre-trained deep models for website (http://www.vlfeat.org/matconvnet/pretrained/), for examples: imagenet-vgg-s.mat or imagenet-vgg-f.mat. Put them into the folder "Demo_SPDF-SVM/models";
 
