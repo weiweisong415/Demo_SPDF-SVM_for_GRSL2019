@@ -15,7 +15,7 @@ num_bands = 3;
 img=reshape(img,I_row*I_line,I_high);
 %%%%%%%%%%%%%%  Dimension-reducing by PCA  %%%%%%%%%%%%%%%%%%%%%%%
 im=img;
-im=compute_mapping(im,'PCA',num_bands);
+im=compute_mapping(im,'PCAA',num_bands);
 im = mat2gray(im);
 im =reshape(im,[I_row,I_line,num_bands]);
 [I_row,I_line,I_high] = size(im);

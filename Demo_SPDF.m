@@ -1,7 +1,7 @@
 clear all;close all;clc;
-addpath('drtoolbox');
-addpath('libsvm-3.22','libsvm-3.22/matlab');
-dataset_name = 'pavia_university';  % paviau_university or salinas
+addpath('drtoolbox','drtoolbox\techniques','drtoolbox\gui');
+addpath('libsvm-3.22','libsvm-3.22\matlab');
+dataset_name = 'salinas';  % paviau_university or salinas
 for num = 1:10
 switch(dataset_name)
     case 'pavia_university'

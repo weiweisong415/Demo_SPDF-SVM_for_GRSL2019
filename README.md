@@ -5,10 +5,10 @@ If you use this code, please kindly cite our paper:
   title={Deep Hashing Neural Networks for Hyperspectral Image Feature Extraction},
   author={Fang, Leyuan and Liu, Zhiliang and Song, Weiwei},
   journal={IEEE Geoscience and Remote Sensing Letter},
-  volume={},
-  number={},
-  pages={},
-  year={},
+  volume={16},
+  number={9},
+  pages={1412-1416},
+  year={2019},
   publisher={IEEE}
 }
 
